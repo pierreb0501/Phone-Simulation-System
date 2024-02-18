@@ -1,0 +1,118 @@
+commit 5300eed45fe15eb3892a76f7fbb5d1dad481c3d0
+Merge: f981cc1 faf2266
+Author: Pierre El Boustany <pierre.elboustany@mail.mcgill.ca>
+Date:   Fri Apr 14 21:24:05 2023 -0400
+
+    jj
+
+commit f981cc14e86cc4e6351b0dc40daa60b6e27be2fe
+Merge: 18d4308 cb6d1ac
+Author: Pierre El Boustany <pierre.elboustany@mail.mcgill.ca>
+Date:   Fri Apr 14 21:18:35 2023 -0400
+
+    final work
+
+commit faf2266150aa7724ef8100a9c77635c8d7c43fb6
+Merge: fedec1f cb6d1ac
+Author: Celina Imsaih <celina.imsaih@mcgill.ca>
+Date:   Fri Apr 14 20:46:37 2023 -0400
+
+    Completed merge with main branch, added changes to mini5phone.c
+
+commit 18d43089de956cedc6487f99ad9fe0b3bc507ba3
+Merge: ce4941a 8a23873
+Author: Pierre El Boustany <pierre.elboustany@mail.mcgill.ca>
+Date:   Fri Apr 14 20:40:06 2023 -0400
+
+    finally
+
+commit cb6d1acddfc0ae6bcbac7cb1fa34cb0022da6e66
+Merge: 2bd15ec 064affc
+Author: karl stephan <karl.stephan@mcgill.ca>
+Date:   Fri Apr 14 20:27:47 2023 -0400
+
+    ff
+
+commit 2bd15ec669d5db692b4d850dd0954900c4f0f373
+Author: karl stephan <karl.stephan@mcgill.ca>
+Date:   Fri Apr 14 20:06:32 2023 -0400
+
+    final official file
+
+commit 8a2387376b1590e80c30e0b84434564c693a8d28
+Author: Pierre El Boustany <pierre.elboustany@mail.mcgill.ca>
+Date:   Fri Apr 14 19:50:34 2023 -0400
+
+    this is the finialized version, check it pls
+
+commit fedec1f787d7782e0472a024e4f794ae27d9a0cc
+Author: Celina Imsaih <celina.imsaih@mcgill.ca>
+Date:   Fri Apr 14 19:46:47 2023 -0400
+
+    Fixed it again, can you check it again.
+
+commit fed49948934e9afd2fbf5ebab5b8078436c60acc
+Author: Pierre El Boustany <pierre.elboustany@mail.mcgill.ca>
+Date:   Fri Apr 14 19:43:10 2023 -0400
+
+    just added a few changes, let me know if i should add anything else to the code
+
+commit 286c6d30b42392923aee80615d7175793114a033
+Author: Celina Imsaih <celina.imsaih@mcgill.ca>
+Date:   Fri Apr 14 19:37:35 2023 -0400
+
+    Just finalized the code
+
+commit 8846cb05a9d494447e669b608d4092b2afd181b0
+Author: Pierre El Boustany <pelbou@teach-node-05.CS.McGill.CA>
+Date:   Fri Apr 14 19:06:00 2023 -0400
+
+    Just completed the code
+
+commit e14f875ef099be211ff06a703578f71a348b41ef
+Author: Pierre El Boustany <pelbou@teach-node-05.CS.McGill.CA>
+Date:   Fri Apr 14 19:03:38 2023 -0400
+
+    Just added a the helper .h file, not done with it yet.
+
+commit 064affcaf85ed340bbbfaed3a27918abfe0cf483
+Author: Celina Imsaih <celina.imsaih@mcgill.ca>
+Date:   Fri Apr 14 12:10:21 2023 -0400
+
+    Just realized I had a few more changes to make
+
+commit 12701c6ccc3d7886a09b1b808842290fbc824083
+Author: Pierre El Boustany <pelbou@teach-node-02.CS.McGill.CA>
+Date:   Thu Apr 13 21:33:35 2023 -0400
+
+    added the first initial changes to mini5main.c
+
+commit ce4941ae3d99933ac7de7870ce6fd4f35f3171c1
+Author: Celina Imsaih <celina.imsaih@mcgill.ca>
+Date:   Thu Apr 13 19:29:41 2023 -0400
+
+    Just applied a few more changes to the code
+
+commit 8d0da9a192748441997e3b695a79e9e0f868b6fd
+Author: Celina Imsaih <celina.imsaih@mcgill.ca>
+Date:   Thu Apr 13 12:16:37 2023 -0400
+
+    Completed all the changes for mini5phone.c
+
+commit 12a97831f3411594989b2cf94ed6f6588b0b26d2
+Author: Celina Imsaih <celina.imsaih@mcgill.ca>
+Date:   Thu Apr 13 12:09:47 2023 -0400
+
+    Began changing the first few functions, 'addRecord', 'loadCSV', 'saveCSV', making them dynamic using linked list
+
+commit 23492618790572fa3b3f935dd2e037c3bc950351
+Author: Celina Imsaih <celina.imsaih@mcgill.ca>
+Date:   Thu Apr 13 12:04:50 2023 -0400
+
+    Added the initial unedited files
+
+commit d8eec65d67d4d6c38b4da5edf8e425f5ba8086c1
+Author: Celina Imsaih <celina.imsaih@mcgill.ca>
+Date:   Thu Apr 13 11:41:44 2023 -0400
+
+    Added the ininitial unedited code
