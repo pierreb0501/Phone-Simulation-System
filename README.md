@@ -13,4 +13,3 @@ Simulated Phone Calls: Experience the process of making and receiving calls in a
 Contact Management: Add, delete, and manage contacts within the simulation.
 Messaging System: Simulate sending and receiving messages.
 Log Tracking: Monitor actions and events within the system through a detailed log file.
-
